@@ -5,9 +5,9 @@
 
 A clean, simple, and responsive personal note-taking application built with Flutter. This app allows users to create, view, and manage their personal notes across different devices with an intuitive user interface.
 
-<!-- ## 📱 Screenshots
+## 📱 Screenshots
 
-*[You can add screenshots of your app here]* -->
+![App Screenshot](https://github.com/user-attachments/assets/b04b6d53-3492-45fc-bef1-60dcefbc203e)
 
 ## ✨ Features
 
